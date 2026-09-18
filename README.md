@@ -22,7 +22,7 @@
 - AWS Core Services Hands-on (EC2 + S3)
 - Terraform + CI/CD projects
 
-**Full Journey:** [GitHub link]  
-**LinkedIn:** [add your LinkedIn link]
+**Full Journey:** [https://github.com/qamerraza]  
+**LinkedIn:** [https://www.linkedin.com/in/qamer-shahid-855841437/]
 
 #OSFundamentals #Tanenbaum #CloudPractitioner #DevOps
